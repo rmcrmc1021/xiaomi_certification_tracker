@@ -21,3 +21,4 @@ A side project by XiaomiFirmwareUpdater, python 3 script that scrapes Xiaomi pro
 - Wi-Fi Org
 - Widevine Revocation Tracker
 - XSMS Database
+
